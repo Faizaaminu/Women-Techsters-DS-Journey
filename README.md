@@ -1,6 +1,8 @@
 # 🌸 Women Techsters Data Science Journey
 ---------------------
-![WTF.PNG](https://womentechsters.org/wp-content/uploads/2025/08/Fellowship@4x.png)
+
+<img width="1316" height="375" alt="image" src="https://github.com/user-attachments/assets/d8133a3a-e614-4406-84d2-eee030b51996" />
+
 
 ## ✨ Overview
 
